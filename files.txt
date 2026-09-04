@@ -1,0 +1,9 @@
+total 24
+-rw-rw-rw-  1 codespace root        14 Sep  4 16:48 README.md
+drwxrwxrwx+ 2 codespace codespace 4096 Sep  4 16:50 c-programs
+drwxrwxrwx+ 2 codespace codespace 4096 Sep  4 17:03 command-line
+drwxr-xr-x+ 2 codespace codespace 4096 Sep  4 17:03 command-line-easy
+-rw-rw-rw-  1 codespace codespace    0 Sep  4 17:05 files.txt
+-rw-r--r--  1 codespace codespace   16 Sep  4 16:57 hello-copy.txt
+-rw-------  1 codespace codespace    0 Sep  4 17:05 secret.txt
+drwxrwxrwx+ 2 codespace codespace 4096 Sep  4 16:50 shell-scripts
