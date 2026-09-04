@@ -1,0 +1,1 @@
+pwd, ls, cd, mkdir, touch, nano, cp, mv, rm, cat, man ls, echo — all tested successfully
