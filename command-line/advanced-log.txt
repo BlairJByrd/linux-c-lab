@@ -1,0 +1,15 @@
+.
+├── README.md
+├── advanced-log.txt
+├── c-programs
+├── command-line
+│   ├── easy-log.txt
+│   └── intermediate-log.txt
+├── command-line-easy
+│   └── test.txt
+├── files.txt
+├── hello-copy.txt
+├── secret.txt
+└── shell-scripts
+
+5 directories, 8 files
